@@ -1,4 +1,5 @@
 # streamlit run app2.py
+# pip install -r requirements.txt
 
 
 import streamlit as st
